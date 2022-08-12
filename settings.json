@@ -1,0 +1,11 @@
+{
+  "token": "discordbottoken",
+  "prefix": "/",
+  "guildId" : "Development guild ID",
+  "clientId" : "Bot client id",
+  "color" : "#7876d7",
+  "footer" : "Powered by BOTNAME",
+  "footerIcon": "directurlto.png",
+  "botname" : "Botname",
+  "botimage": "Bot profile pic direct url to png"
+}
